@@ -1,0 +1,1 @@
+# jimp-mock-fs-error-demo
