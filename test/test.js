@@ -14,7 +14,7 @@ after(async () => {
 });
 
 it('can create a thumbnail', async () => {
-    const image = await Jimp.read('/cat/cat.jpg');
+    const image = await Jimp.read('c:\cat\cat.jpg');
     const thumb = image.clone();
     thumb.cover(100, 100);
 });

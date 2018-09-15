@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/edsilv/jimp-mock-fs-error-demo#readme",
   "devDependencies": {
+    "jimp": "^0.4.0",
     "mocha": "^5.2.0",
     "mock-fs": "^4.6.0",
     "rimraf": "^2.6.2"
